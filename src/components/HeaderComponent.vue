@@ -4,7 +4,7 @@
       <div class="container header-container">
         <div class="logo">
           <router-link to="/">
-            <img src="https://ext.same-assets.com/876815985.png" alt="24hours.pk Logo">
+            <img src="../assets/cheaptronic.png" alt="cheaptronic">
           </router-link>
         </div>
         <div class="search-cart">
