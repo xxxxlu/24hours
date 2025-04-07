@@ -43,8 +43,7 @@ const routes = [
 ]
 
 const router = new VueRouter({
-  mode: 'history',
-  base: process.env.BASE_URL,
+  mode: 'hash', // 改为hash模式避免服务器端重定向问题
   routes
 })
 

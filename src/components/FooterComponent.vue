@@ -13,7 +13,7 @@
         <h3>CONTACT US</h3>
         <p><strong>Karachi</strong></p>
         <p>Office Number 1203, 12th Floor, Uni Centre, I.I Chundrigar Road, Karachi, Pakistan.</p>
-        <p>Email: info@24hours.pk</p>
+        <p>Email: cheaptronic@zontec.club</p>
       </div>
       <div class="footer-section">
         <h3>NEWSLETTER</h3>

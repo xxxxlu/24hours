@@ -8,7 +8,8 @@
   port = 8888
   publish = "dist"
 
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
+# 由于已经改为hash模式，不再需要此重定向规则
+# [[redirects]]
+#   from = "/*"
+#   to = "/index.html"
+#   status = 200
